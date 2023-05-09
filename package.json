@@ -1,6 +1,6 @@
 {
   "name": "perfetto-npm-fork",
-  "version": "1.0.5",
+  "version": "1.0.10",
   "description": "Perfetto UI",
   "repository": "https://android.googlesource.com/platform/external/perfetto",
   "main": "index.js",
